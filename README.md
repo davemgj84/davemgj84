@@ -1,8 +1,6 @@
-# <center>< David Jardine - Web Developer /></center>
+# < David Jardine - Web Developer />
 
-## <center>👋 Welcome to my Github! 👋</center>
-
-## <center>I am actively looking for employment opportunities!</center>
+## 👋 Welcome to my Github! 👋 I am actively looking for employment opportunities!
 
 #
 
@@ -16,7 +14,6 @@ A Full Stack Web Developer with a background as an artist. I offer many perspect
 
 #
 
-<center>
 <h2 style="margin-bottom:1rem" >Languages & Tools:<h2/>
 
 <img alt="Javascript" style="margin-right:0.5rem" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -33,25 +30,13 @@ A Full Stack Web Developer with a background as an artist. I offer many perspect
 <img alt="HTML" style="margin-right:0.5rem" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS" style="margin-right:0.5rem" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img alt="Bootstrap" style="margin-right:0.5rem" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-</center>
 
 #
 
-<center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davemgj84&layout=compact" /><br>
-<h2>Exploring and growing everyday!<h2/>
-</center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davemgj84&layout=compact" />
 
 #
 
-<center>
 <h2 style="margin-bottom:1rem">Connect with me!<h2/>
 <a style="margin-right:2rem" href="https://www.linkedin.com/in/david-jardine-a639891b7/" rel="noreferrer" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a> 
-<a href="https://www.djardine.com/home" rel="noreferrer" target="_blank"><img height="32" width="32" src="https://www.flaticon.com/svg/vstatic/svg/52/52349.svg?token=exp=1617142136~hmac=3f4c129a73407861ab79f3a298a32fd7" /></a>
-</center>
-
----
-
----
-
----
+<a href="https://www.djardine.com/home" rel="noreferrer" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlechrome.svg" /></a>
