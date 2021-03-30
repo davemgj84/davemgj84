@@ -3,7 +3,7 @@
 <div style="margin-bottom: 1rem" align="center"><h3>👋 Welcome to my Github! 👋</h3>
 </div>
 
-A Full Stack Web Developer with a background as an artist. I offer many perspectives and modes of thinking with my diverse background. I have always loved creating and building interactive projects and collaborating with a team. I enjoy critical thinking, problem solving, and creativity in my work.
+A Full Stack Web Developer with a background as an artist. I offer many perspectives and modes of thinking with my diverse experience. I have always loved creating and building interactive projects and collaborating with a team. I enjoy critical thinking, problem solving, and creativity in my work.
 
 - Currently looking for full time employment as a Web Developer
 - Creating small applications to practice what I have learned
