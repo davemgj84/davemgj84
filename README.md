@@ -10,7 +10,7 @@ A Full Stack Web Developer with a background as an artist. I offer many perspect
 - Doing daily kata coding challenges to grow my skills
 
 <div align="center">
-  <h2>Languages & Tools:<h2/>
+  <h3>Languages & Tools:<h3/>
   <img alt="Javascript" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
   <img alt="ReactJS" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   <img alt="Sass" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
