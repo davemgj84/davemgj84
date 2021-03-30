@@ -32,7 +32,7 @@ A Full Stack Web Developer with a background as an artist. I offer many perspect
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davemgj84&layout=compact" />
 </div>
 
-  <div align="center">
+  <div style="background: white; border-radius: 80px; color: black" align="center">
     <h3 style="margin-bottom:1rem">Connect with me!<h3/>
     <a style="margin-right:2rem" href="https://www.linkedin.com/in/david-jardine-a639891b7/" rel="noreferrer" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a> 
     <a href="https://www.djardine.com/home" rel="noreferrer" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlechrome.svg" /></a>
