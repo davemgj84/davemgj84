@@ -4,17 +4,11 @@
 <h3>I am actively looking for employment opportunities!</h3>
 </div>
 
-#
-
 A Full Stack Web Developer with a background as an artist. I offer many perspectives and modes of thinking with my diverse background. I have always loved creating and building interactive projects and collaborating with a team. I enjoy critical thinking, problem solving, and creativity in my work.
 
-#
-
-- Currently looking for full time employment as a Developer
+- Currently looking for full time employment as a Web Developer
 - Doing daily kata coding challenges to grow my skills
 - Creating small applications to practice what I have learned
-
-#
 
 <div align="center">
 <h2 style="margin-bottom:1rem" >Languages & Tools:<h2/>
@@ -34,13 +28,9 @@ A Full Stack Web Developer with a background as an artist. I offer many perspect
 <img alt="Bootstrap" style="margin-right:0.5rem" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 </div>
 
-#
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davemgj84&layout=compact" />
 </div>
-
-#
 
 <div align="center">
 <h2 style="margin-bottom:1rem">Connect with me!<h2/>
