@@ -1,6 +1,8 @@
-# < David Jardine - Web Developer />
+<div align="center"><h1>< David Jardine - Web Developer /></h1></div>
 
-## 👋 Welcome to my Github! 👋 I am actively looking for employment opportunities!
+<div align="center"><h2>👋 Welcome to my Github! 👋</h2>
+<h3>I am actively looking for employment opportunities!</h3>
+</div>
 
 #
 
@@ -14,8 +16,8 @@ A Full Stack Web Developer with a background as an artist. I offer many perspect
 
 #
 
+<div align="center">
 <h2 style="margin-bottom:1rem" >Languages & Tools:<h2/>
-
 <img alt="Javascript" style="margin-right:0.5rem" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img alt="ReactJS" style="margin-right:0.5rem" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img alt="Sass" style="margin-right:0.5rem" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -30,13 +32,18 @@ A Full Stack Web Developer with a background as an artist. I offer many perspect
 <img alt="HTML" style="margin-right:0.5rem" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS" style="margin-right:0.5rem" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img alt="Bootstrap" style="margin-right:0.5rem" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+</div>
 
 #
 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davemgj84&layout=compact" />
+</div>
 
 #
 
+<div align="center">
 <h2 style="margin-bottom:1rem">Connect with me!<h2/>
 <a style="margin-right:2rem" href="https://www.linkedin.com/in/david-jardine-a639891b7/" rel="noreferrer" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a> 
 <a href="https://www.djardine.com/home" rel="noreferrer" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlechrome.svg" /></a>
+</div>
