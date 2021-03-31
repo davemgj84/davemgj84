@@ -11,7 +11,7 @@ A Full Stack Web Developer with a background as an artist. I offer many perspect
 
 <div align="center">
   <h3>Languages & Tools:<h3/>
-  <a style="text-decoration:none; pointer-events: none;"><img alt="Javascript" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>&nbsp;&nbsp;
+  <a href="#" style="text-decoration:none; pointer-events: none;"><img alt="Javascript" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>&nbsp;&nbsp;
   <img alt="ReactJS" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />&nbsp;&nbsp;
   <img alt="Sass" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />&nbsp;&nbsp;
   <img alt=" Ruby" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />&nbsp;&nbsp;
