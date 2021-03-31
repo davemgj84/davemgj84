@@ -29,7 +29,7 @@ A Full Stack Web Developer with a background as an artist. I offer many perspect
 </div>
 
 <div align="center" style="margin-bottom: 2rem">
-<img alt="stats" height="auto" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davemgj84&layout=compact" />
+<img alt="stats" height="auto" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davemgj84&layout=compact" />
 </div>
 
   <div align="center">
