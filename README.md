@@ -29,7 +29,7 @@ A Full Stack Web Developer with a background as an artist. I offer many perspect
 </div>
 
 <div align="center" style="margin-bottom: 2rem">
-  <a href="" ><img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davemgj84&layout=compact" /></a>
+  <a href="#" ><img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davemgj84&layout=compact" /></a>
 </div>
 
   <div align="center">
