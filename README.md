@@ -5,7 +5,7 @@
 
 A Full Stack Web Developer with a background as an artist. I offer many perspectives and modes of thinking with my diverse experience. I have always loved creating and building interactive projects and collaborating with a team. I enjoy critical thinking, problem solving, and creativity in my work.
 
-- Currently employed as a Junior Software Developer at Clir Renewables Inc.
+- Currently employed as an Intermediate Software Developer at Clir Renewables Inc.
 - Creating small applications for fun and to practice what I have learned
 - Doing daily kata coding challenges to grow my skills
 
