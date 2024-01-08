@@ -10,6 +10,6 @@ A Full Stack Software Developer with a background as an artist. I offer many per
   <div align="center">
     <h3 style="margin-bottom:1rem">Connect with me!<h3/>
     <a href="https://www.linkedin.com/in/david-jardine-a639891b7/" rel="noreferrer" target="_blank">
-    <img height="32" width="32" src="https://fontawesome.com/icons/linkedin?f=brands&s=solid" /></a> &nbsp;&nbsp;&nbsp;
+    <img height="32" width="32" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" /></a> &nbsp;&nbsp;&nbsp;
     <a href="https://www.djardine.com/home" rel="noreferrer" target="_blank"><img height="32" width="32" src="https://www.djardine.com/favicon.ico" /></a>
   </div>
