@@ -34,6 +34,7 @@ A Full Stack Web Developer with a background as an artist. I offer many perspect
 
   <div align="center">
     <h3 style="margin-bottom:1rem">Connect with me!<h3/>
-    <a href="https://www.linkedin.com/in/david-jardine-a639891b7/" rel="noreferrer" target="_blank"><img height="32" width="32" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a> &nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/david-jardine-a639891b7/" rel="noreferrer" target="_blank"><img height="32" width="32"     
+       src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a> &nbsp;&nbsp;&nbsp;
     <a href="https://www.djardine.com/home" rel="noreferrer" target="_blank"><img height="32" width="32" src="https://www.djardine.com/favicon.ico" /></a>
 </div>
