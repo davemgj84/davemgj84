@@ -6,6 +6,7 @@
 A Full Stack Software Developer with a background as an artist. I offer many perspectives and modes of thinking with my diverse experience. I have always loved creating and building interactive projects and collaborating with a team. I enjoy critical thinking, problem solving, and creativity in my work.
 
 - Currently seeking employment as an Intermediate Software Developer
+- Please note that many of the projects/repos here date back to 2020/2021. I have been employed full-time at Clir Renewables Inc. for the past ~3 years and have not had much personal time to start new side projects. I am excited to share that I am currently initiating new projects, focusing on TypeScript/React, which will better showcase my current skillset.
 
   <div align="center">
     <h3 style="margin-bottom:1rem">Connect with me!<h3/>
